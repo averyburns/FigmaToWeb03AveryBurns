@@ -60,7 +60,7 @@
 .home-page .about-section {
   display: flex;
   flex-wrap: wrap;
-  width: 1280px;
+  width: fill;
   align-items: center;
   justify-content: center;
   gap: 68px 42px;
